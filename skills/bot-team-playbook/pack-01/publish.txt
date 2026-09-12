@@ -1,0 +1,4 @@
+title: Manager Never Executes: The One Line That Runs Bot Teams | Skill 02
+video: https://www.youtube.com/watch?v=vyyKTh5j_RM
+style: OCT blackboard (square 1:1, Caveat, captions burned, static)
+length: 42.2s, 1080x1080
