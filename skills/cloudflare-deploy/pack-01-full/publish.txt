@@ -1,0 +1,4 @@
+title: Cloudflare Zero Drama: Pages + Workers FULL Guide (8-Min) | Skill 03
+video: https://www.youtube.com/watch?v=nbu8IdjGyog
+length: 8:08 (489s), 1080x1080, 8.1MB, 21 sections, Edge-Christopher silent
+style: OCT blackboard, captions burned
